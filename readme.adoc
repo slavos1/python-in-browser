@@ -1,0 +1,15 @@
+= Notes
+:icons: font
+
+Inspired by:
+
+. https://github.com/amirtds/netflix-analysis-spa/tree/part-3
+. https://simonwillison.net/2022/May/4/datasette-lite/
+. https://lite.datasette.io/
+. https://lite.datasette.io/webworker.js
+
+See also: https://pyodide.org/en/stable/usage/quickstart.html
+
+IMPORTANT: pyfetch.response.headers are avail for sure from `v0.25.0`. 
+
+How to run: click Go Live in VS Code and wait.
